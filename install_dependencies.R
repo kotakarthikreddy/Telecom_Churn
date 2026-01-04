@@ -1,0 +1,26 @@
+# Install required packages
+install.packages(c(
+  "plyr",
+  "rpart.plot",
+  "caret",
+  "gridExtra",
+  "tidyverse",
+  "rsample",
+  "e1071",
+  "GGally",
+  "data.table",
+  "readr",
+  "DT",
+  "ggplot2",
+  "dplyr",
+  "tidyr",
+  "corrplot",
+  "rms",
+  "MASS",
+  "ROCR",
+  "gplots",
+  "pROC",
+  "rpart",
+  "randomForest",
+  "ggpubr"
+))
